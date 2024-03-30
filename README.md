@@ -23,6 +23,10 @@ Visualization Creation: Visualizations are created using Power BI to represent v
 
 Insights Generation: Insights are derived from the visualizations, including identification of best-selling items, analysis of sales trends, and assessment of customer preferences.
 
+# Power Bi Visualization for the pizza analysis is : 
+
+![image](https://github.com/Jaswanthanks/Pizza-Sales/assets/110350104/dd7cd528-69e0-4208-adad-1ba206a5f13e)
+
 
 # Conclusion
 This project demonstrates the power of data analysis using Power BI and MySQL, offering valuable insights into pizza sales performance and guiding potential actions for optimizing sales and improving customer satisfaction.
