@@ -1,6 +1,6 @@
 # Pizza Sales Data Analysis with Power BI and MySQL
 
-
+![image](https://github.com/Jaswanthanks/Pizza-Sales/assets/110350104/416132ed-b467-49fb-954c-2806d1a68a11)
 
 This repository contains an in-depth analysis of pizza sales data for the year 2015, utilizing Power BI and MySQL tools. The analysis provides insights into the performance of different pizza items, highlighting best-selling and worst-performing items, and suggesting potential actions based on the analysis.
 
